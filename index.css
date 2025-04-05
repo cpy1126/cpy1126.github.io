@@ -111,7 +111,7 @@ input:focus, textarea:focus {
 
 .name-email-group {
     display: flex;
-    gap: 10px;
+    gap: 16px;
 }
 .name-email-group .form-group{
     flex: 1;
@@ -119,7 +119,7 @@ input:focus, textarea:focus {
 
 .password-group {
     display: flex;
-    gap: 20px; /* 控制兩個欄位之間的間距 */
+    gap: 16px; /* 控制兩個欄位之間的間距 */
 }
 
 .password-group .form-group {
