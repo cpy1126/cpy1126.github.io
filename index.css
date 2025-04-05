@@ -62,7 +62,7 @@ input:focus, textarea:focus {
 
 .radio-group, .checkbox-group {
     display: flex;
-    gap: 10px;
+    gap: 16px;
 }
 
 .submit-btn {
@@ -95,13 +95,12 @@ input:focus, textarea:focus {
 
 .radio-group input[type="radio"] {
     transform: scale(1.5);
-    margin-right: 5px;
 }
 
 .radio-group label {
     display: flex;
     align-items: center;
-    gap: 16px;
+    gap: 4px;
 }
 
 .checkbox-group input[type="checkbox"] {
